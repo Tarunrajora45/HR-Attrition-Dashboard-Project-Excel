@@ -181,4 +181,11 @@ Slicer-Driven Workforce Analysis
 
 ---
 # 💬 Helping Feedback & Recommendations
-Your Feedback & Critics means a lot to me . feel free to collaborate & giving feedback or asking questions on this project. I really appreciate every critic & great idea , feel free to reach out .
+- Your Feedback & Critics means a lot to me . feel free to collaborate & giving feedback or asking questions on this project. I really appreciate every critic & great idea , feel free to reach out .
+
+---
+# Created By
+- 🙋‍♂️ Tarun Rajora
+- 📞 +91 8218-228575 
+- 📧 <a href="mailto:trajora106@gnmail.com">trajora106@gmail.com</a>
+- 🔗 <a href="https://www.linkedin.com/in/tarun-rajora-1531332a1/">Linkedin</a>

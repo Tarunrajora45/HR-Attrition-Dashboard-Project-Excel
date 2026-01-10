@@ -75,6 +75,8 @@ Links people decisions to business continuity and cost.
 ```
 ---
 # 📊 Dashboard Overview (Executive Layer)
+![Kpi Dashboard](Preview/01_Hr.attrition%20by%20department%2Cage%2Cgender%20%26%20Job%20role.png)
+
 ## The KPI section : 
 - Total Employees – Raw headcount
 - Active Employees –
@@ -110,6 +112,9 @@ Education-level retention risks
 ### 3️⃣ Attrition by Job Role (Tree Map)
 - Visualizes churn concentration across job roles
 - ➡️ Instantly identifies high-impact roles
+
+![2nd Attrition](Preview/02_Hr.attrition%20by%20promoyion%2Covertime%20%26%20exit%20trends.png)
+
 ### 4️⃣ Attrition by Years Since Last Promotion (Line Chart)
 - Tracks attrition trend as promotion gaps widen
 - ➡️ Direct insight into career stagnation risk
@@ -119,6 +124,9 @@ Education-level retention risks
 ### 6️⃣ Attrition Trend Over Time (Line Chart)
 - Exit patterns across year buckets
 - ➡️ Helps identify periods of organizational instability
+
+![3rd Attritiopn](Preview/03_Hr.attrition%20by%20experirence%20drivers.png)
+
 ### 7️⃣ Employee Experience Drivers (Primary Diagnostic Section)
 - A large, consolidated analysis card featuring four horizontal charts:
 - ✅ Job Satisfaction

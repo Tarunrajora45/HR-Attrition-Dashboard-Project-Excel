@@ -55,8 +55,19 @@ Links people decisions to business continuity and cost.
 
 ---
 # Repository Structure
+```
+📦 HR-Employee-Attrition-And-Headcount-Analytics
+ ┣ 📂 Dashboard
+ ┃ ┗ 📊 HR-Employee-Attrition-And-Head-Count-Project-Report.xlsx
+ ┣ 📂 Data
+ ┃ ┗ 📄 Raw Dataset.csv
+ ┣ 📂 Preview
+ ┃ ┣ 🖼 01_HR-attrition-by-department-age-gender-job-role.png
+ ┃ ┣ 🖼 02_HR-attrition-by-promotion-overtime-exit-trends.png
+ ┃ ┗ 🖼 03_HR-attrition-by-experience-drivers.png
+ ┗ 📄 README.md
 
-
+```
 ---
 # 📊 Dashboard Overview (Executive Layer)
 ## The KPI section : 

@@ -37,3 +37,9 @@ Specific job roles acting as churn epicenters.
 - Employees often leave not because of pay, but because of stalled growth.
 ### What This Project Reveals:
 - Attrition trends increase with years since last promotion, highlighting promotion velocity as a key retention lever.
+
+## 4️⃣ Attrition Numbers Without Context Lead to Wrong Decisions
+### Problem:
+- Many organizations track attrition as a single percentage, treating all exits as equal. This often leads to reactive decisions such as blanket hiring, generic retention programs, or misallocated HR budgets—because leadership lacks context on who is leaving and why.
+### What This Project Solves:
+- This dashboard adds context to attrition by analyzing exits across department, gender, education level, and business travel, and linking them with overtime, promotion gaps, tenure, and engagement drivers. It separates normal workforce movement from structural, high-risk attrition.

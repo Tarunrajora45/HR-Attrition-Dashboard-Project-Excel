@@ -19,21 +19,21 @@ Who is leaving, from where, under what conditions, and why?
 
 # 🏢 Corporate Workforce Problems Solved
 ##  1️⃣ Burnout Masked as Productivity (Overtime Risk)
-- Problem:
-Overtime is often normalized as commitment, masking early burnout signals.
-- What This Project Reveals:
-Attrition among overtime employees is significantly higher, confirming overtime as a predictive attrition driver, not a productivity advantage.
+### Problem:
+- Overtime is often normalized as commitment, masking early burnout signals.
+### What This Project Reveals:
+- Attrition among overtime employees is significantly higher, confirming overtime as a predictive attrition driver, not a productivity advantage.
 
 ## 2️⃣ Role & Department-Level Attrition Blind Spots
-- Problem:
-Aggregate attrition numbers hide where talent loss is actually concentrated.
-- What This Project Solves:
-By breaking attrition down by department and job role, HR can identify:
+### Problem:
+- Aggregate attrition numbers hide where talent loss is actually concentrated.
+### What This Project Solves:
+- By breaking attrition down by department and job role, HR can identify:
 Sales as a high-risk function
 Specific job roles acting as churn epicenters. 
 
 ## 3️⃣ Career Stagnation & Promotion Delays
-- Problem:
-Employees often leave not because of pay, but because of stalled growth.
-- What This Project Reveals:
-Attrition trends increase with years since last promotion, highlighting promotion velocity as a key retention lever.
+### Problem:
+- Employees often leave not because of pay, but because of stalled growth.
+### What This Project Reveals:
+- Attrition trends increase with years since last promotion, highlighting promotion velocity as a key retention lever.

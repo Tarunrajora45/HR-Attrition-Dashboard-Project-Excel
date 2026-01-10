@@ -1,14 +1,19 @@
 # 🧑‍💼📉 HR-Attrition-Dashboard-Project-Excel
 ---
 # Table of Contents
+
 ### <a href="#-project-overview">Overview</a>
 ### <a href="#-corporate-workforce-problems-solved">Problems Solved</a>
 ### <a href="#-why-this-project-stands-out">Why this Project Stand out ?</a>
 ### <a href="#repository-structure">Repository Structure</a>
 ### <a href="#-dashboard-overview-executive-layer">Dashboard Overview</a>
-
-
-
+### <a href="#%EF%B8%8F-data-preparation--calculations">Data Preparation</a>
+### <a href="#-project-structure">Project Structure</a>
+### <a href="#-key-project-insights">Project Insights</a>
+### <a href="#-key-project-highlights">Project Highlights</a>
+### <a href="#-tools--skills-used">Tools & Skills used</a>
+### <a href="#-helping-feedback--recommendations">Feedback Recommendation</a>
+### <a href="#created-by">Created By</a>
 ---
 # 📌 Project Overview
 

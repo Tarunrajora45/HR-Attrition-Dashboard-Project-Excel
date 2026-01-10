@@ -1,11 +1,11 @@
 # 🧑‍💼📉 HR-Attrition-Dashboard-Project-Excel
 ---
 # Table of Contents
-
-
-
-
-
+### <a href="#-project-overview">Overview</a>
+### <a href="#-corporate-workforce-problems-solved">Problems Solved</a>
+### <a href="#-why-this-project-stands-out">Why this Project Stand out ?</a>
+### <a href="#repository-structure">Repository Structure</a>
+### <a href="#-dashboard-overview-executive-layer">Dashboard Overview</a>
 
 
 
@@ -46,7 +46,7 @@ Specific job roles acting as churn epicenters.
 - This dashboard adds context to attrition by analyzing exits across department, gender,job role and linking them with overtime, promotion gaps, tenure, and engagement drivers.
 
 ---
-# 🌟 Why This Project Stands Out
+# 🌟 Why This Project Stands Out?
 - Focuses on diagnostic HR analytics, not surface reporting
 - Combines behavioral, demographic, and structural drivers
 - Uses Power Query + Pivot logic, not manual analysis

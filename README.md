@@ -111,3 +111,15 @@ Education-level retention risks
 - 🔻 Work-life imbalance
 - 🔻 Low role involvement
 - ➡️ All visuals respond dynamically to slicers.
+
+---
+# ⚙️ Data Preparation & Calculations
+## Data Transformation
+- Data cleaned and shaped using Power Query
+Removed inconsistencies and standardized categorical fields
+- Engineered age groups and years buckets.
+## Calculations
+- Attrition flags (Exited with red and white formatting)
+- Attrition percentages via pivot calculations
+- Average age and tenure using calculated fields
+- KPI metrics derived from pivot logic and formulas. 

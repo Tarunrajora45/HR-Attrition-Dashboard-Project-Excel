@@ -54,6 +54,10 @@ Specific job roles acting as churn epicenters.
 Links people decisions to business continuity and cost. 
 
 ---
+# Repository Structure
+
+
+---
 # 📊 Dashboard Overview (Executive Layer)
 ## The KPI section : 
 - Total Employees – Raw headcount
@@ -149,6 +153,13 @@ Slicer-Driven Workforce Analysis
 ---
 
 # 🏆 Key project Highlights 
+- Total employees :- 1470
+- Active employees :- 1233, 84%
+- Exited employees :- 237, 16%
+- Average age :- 37
+- Average tenure :- 7
+- Overtime vs no overtime :- 56% vs 46%
+
 ---
 # 🛠 Tools & Skills Used
 - Microsoft Excel
@@ -158,4 +169,5 @@ Slicer-Driven Workforce Analysis
 - Dashboard Design Principles
 
 ---
+# Helping Feedback & Recommendations
 

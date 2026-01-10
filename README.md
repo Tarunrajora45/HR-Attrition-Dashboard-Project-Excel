@@ -123,3 +123,39 @@ Removed inconsistencies and standardized categorical fields
 - Attrition percentages via pivot calculations
 - Average age and tenure using calculated fields
 - KPI metrics derived from pivot logic and formulas. 
+
+---
+# 📂 Project Structure 
+```
+Raw Employee Data
+        ↓
+Power Query Cleaning & Transformation
+        ↓
+Calculated Fields & Pivot Metrics
+        ↓
+Dynamic KPIs & Visuals
+        ↓
+Slicer-Driven Workforce Analysis
+
+```
+---
+
+# 🔍 Key Project Insights 
+- Overtime is a leading attrition accelerator
+- Sales roles face disproportionate churn risk
+- Mid-career and promotion-delayed employees are vulnerable
+- Engagement metrics explain exits better than demographics alone
+
+---
+
+# 🏆 Key project Highlights 
+---
+# 🛠 Tools & Skills Used
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- HR Metrics & Attrition Analysis
+- Conditional Logic & Calculated Fields 
+- Dashboard Design Principles
+
+---
+

@@ -3,7 +3,7 @@
 # Table of Contents
 
 ### <a href="#-project-overview">Overview</a>
-### <a href="#-corporate-workforce-problems-solved">Problems Solved</a>
+### <a href="#-corporate-workforce-problems-solved">Business Problems Solved</a>
 ### <a href="#-why-this-project-stands-out">Why this Project Stand out ?</a>
 ### <a href="#repository-structure">Repository Structure</a>
 ### <a href="Dashboard/HR-Employee-Attrition%20And%20Head%20Count%20Project%20Report.xlsx">Dashboard</a>

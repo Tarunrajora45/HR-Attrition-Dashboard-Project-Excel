@@ -40,6 +40,6 @@ Specific job roles acting as churn epicenters.
 
 ## 4️⃣ Attrition Numbers Without Context Lead to Wrong Decisions
 ### Problem:
-- treating all exits as equal. This often leads to reactive decisions such as blanket hiring or misallocated HR budgets—because leadership lacks context on who is leaving and why.
+- Treating all exits as equal often leads to reactive decisions such as blanket hiring or misallocated HR budgets—because leadership lacks context on who is leaving and why.
 ### What This Project Solves:
 - This dashboard adds context to attrition by analyzing exits across department, gender,job role and linking them with overtime, promotion gaps, tenure, and engagement drivers.

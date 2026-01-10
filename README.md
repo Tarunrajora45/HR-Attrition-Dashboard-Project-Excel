@@ -92,21 +92,21 @@ Education-level retention risks
 ### 4️⃣ Attrition by Years Since Last Promotion (Line Chart)
 - Tracks attrition trend as promotion gaps widen
 - ➡️ Direct insight into career stagnation risk
-5️⃣ Attrition by Overtime (Donut Chart)
-Compares overtime vs non-overtime employees
-Reinforces overtime as a structural attrition driver
-6️⃣ Attrition Trend Over Time (Line Chart)
-Exit patterns across year buckets
-Helps identify periods of organizational instability
-7️⃣ Employee Experience Drivers (Primary Diagnostic Section)
-A large, consolidated analysis card featuring four horizontal charts:
-Job Satisfaction
-Performance Rating
-Work-Life Balance
-Job Involvement
-This section acts as the core behavioral diagnosis layer, revealing whether attrition is driven by:
-Disengagement
-Performance pressure
-Work-life imbalance
-Low role involvement
-All visuals respond dynamically to slicers.
+### 5️⃣ Attrition by Overtime (Donut Chart)
+- Compares overtime vs non-overtime employees
+- ➡️ Reinforces overtime as a structural attrition driver
+### 6️⃣ Attrition Trend Over Time (Line Chart)
+- Exit patterns across year buckets
+- ➡️ Helps identify periods of organizational instability
+### 7️⃣ Employee Experience Drivers (Primary Diagnostic Section)
+- A large, consolidated analysis card featuring four horizontal charts:
+- ✅ Job Satisfaction
+- ✅ Performance Rating
+- ✅ Work-Life Balance
+- ✅ Job Involvement
+#### This section acts as the core behavioral diagnosis layer, revealing whether attrition is driven by:
+- 🔻Disengagement
+- 🔻 Performance pressure
+- 🔻 Work-life imbalance
+- 🔻 Low role involvement
+- ➡️ All visuals respond dynamically to slicers.

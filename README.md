@@ -8,7 +8,7 @@
 ### <a href="#repository-structure">Repository Structure</a>
 ### <a href="Dashboard/HR-Employee-Attrition%20And%20Head%20Count%20Project%20Report.xlsx">Dashboard</a>
 ### <a href="Data/Raw%20Dataset.csv">Dataset</a>
-### <a href="Preview/"></a>
+### <a href="Preview/">Dashboard Preview</a>
 ### <a href="#-dashboard-overview-executive-layer">Dashboard Structure</a>
 ### <a href="#%EF%B8%8F-data-preparation--calculations">Data Preparation</a>
 ### <a href="#-project-structure">Project Structure</a>

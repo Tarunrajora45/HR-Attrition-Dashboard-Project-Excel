@@ -10,7 +10,7 @@
 
 
 ---
-#📌 Project Overview
+# 📌 Project Overview
 
 - The HR Employee Attrition & Headcount Analytics Project is a workforce diagnostics dashboard designed to identify attrition risk drivers, workforce stability issues, and retention levers using employee-level data.
 Built on 1,470 employee records, this project combines Power Query–based data transformation, calculated fields, and pivot-driven analytics to move beyond static HR reporting. The dashboard enables HR leaders to explore how department, education level, gender, business travel, tenure, overtime, and career progression interact to influence employee exits.

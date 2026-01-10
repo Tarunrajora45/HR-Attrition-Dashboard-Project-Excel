@@ -1,1 +1,3 @@
-# HR-Attrition-Dashboard-Project-Excel
+# 🧑‍💼📉 HR-Attrition-Dashboard-Project-Excel
+---
+# Table of Contents

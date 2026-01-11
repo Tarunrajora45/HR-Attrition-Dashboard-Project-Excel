@@ -1,22 +1,21 @@
 # 🧑‍💼📉 HR-Attrition-Dashboard-Project-Excel
 ---
 # Table of Contents
-
-### <a href="#-project-overview">Overview</a>
-### <a href="#-corporate-workforce-problems-solved">Business Problems Solved</a>
-### <a href="#-why-this-project-stands-out">Why this Project Stand out ?</a>
-### <a href="#repository-structure">Repository Structure</a>
-### <a href="Dashboard/HR-Employee-Attrition%20And%20Head%20Count%20Project%20Report.xlsx">Dashboard</a>
-### <a href="Data/Raw%20Dataset.csv">Dataset</a>
-### <a href="Preview/">Dashboard Preview</a>
-### <a href="#-dashboard-overview-executive-layer">Dashboard Structure</a>
-### <a href="#%EF%B8%8F-data-preparation--calculations">Data Preparation</a>
-### <a href="#-project-structure">Project Structure</a>
-### <a href="#-key-project-insights">Project Insights</a>
-### <a href="#-key-project-highlights">Project Highlights</a>
-### <a href="#-tools--skills-used">Tools & Skills used</a>
-### <a href="#-helping-feedback--recommendations">Feedback Recommendation</a>
-### <a href="#created-by">Created By</a>
+## <a href="#-project-overview">Overview</a>
+## <a href="#-corporate-workforce-problems-solved">Business Problems Solved</a>
+## <a href="#-why-this-project-stands-out">Why this Project Stand out ?</a>
+## <a href="#repository-structure">Repository Structure</a>
+## <a href="Dashboard/HR-Employee-Attrition%20And%20Head%20Count%20Project%20Report.xlsx">Dashboard</a>
+## <a href="Data/Raw%20Dataset.csv">Dataset</a>
+## <a href="Preview/">Dashboard Preview</a>
+## <a href="#-dashboard-overview-executive-layer">Dashboard Structure</a>
+## <a href="#%EF%B8%8F-data-preparation--calculations">Data Preparation</a>
+## <a href="#-project-structure">Project Structure</a>
+## <a href="#-key-project-insights">Project Insights</a>
+## <a href="#-key-project-highlights">Project Highlights</a>
+## <a href="#-tools--skills-used">Tools & Skills used</a>
+## <a href="#-helping-feedback--recommendations">Feedback Recommendation</a>
+## <a href="#created-by">Created By</a>
 ---
 # 📌 Project Overview
 
